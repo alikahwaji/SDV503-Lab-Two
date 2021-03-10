@@ -52,7 +52,7 @@ Check the :white_check_mark: Todos & :x: Not Todos
 
 :arrow_right: `Create a folder name it src and in the folder create a file type .js`
 
-:arrow_right: `Create a new branch name it dev`
+:arrow_right: `Create a new branch name it dev.`
 
 :arrow_right: `Install nodemon package and make sure you installed the latest version.`
 
@@ -70,7 +70,13 @@ Check the :white_check_mark: Todos & :x: Not Todos
 
                NMIT address: 322 Hardy Street, Nelson, New Zealand, 7010
 
+
+
+:arrow_right: `In your journal file, write about var, let, and const keywords in JavaScript with examples and explain the difference between them.`
+
 :arrow_right: `Make sure you add, commit and push to dev branch.`
+
+:arrow_right: `Merge dev branch to master.`
 
 
 ## :books: Resources 
