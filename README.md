@@ -68,7 +68,7 @@ Check the :white_check_mark: Todos & :x: Not Todos
 
 :arrow_right: `Using template strings print out the the following: `
 
-               `NMIT address: 322 Hardy Street, Nelson, New Zealand, 7010`
+               NMIT address: 322 Hardy Street, Nelson, New Zealand, 7010
 
 :arrow_right: `Make sure you add, commit and push to dev branch.`
 
