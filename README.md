@@ -48,23 +48,26 @@ Check the :white_check_mark: Todos & :x: Not Todos
 |:four:|Do NOT Share the lab repo :closed_lock_with_key:|:heavy_multiplication_x:|
 |:five:|Do NOT re-use this repo for other coding activities :recycle:|:heavy_multiplication_x:|
 
-## :page_facing_up: Lab One Practice 
+## :page_facing_up: Lab Two Practice 
 
-:arrow_right: `This lab will focus on Git commands and GitHub markdown.`
+:arrow_right: `Create a folder name it src and in the folder create a file type .js`
 
-:arrow_right: `Create a new branch and name that branch task-one.`
+:arrow_right: `Create a new branch name it dev`
 
-:arrow_right: `On task-one branch convert the software document example provided in the img folder to markdown using the document.md file.`
+:arrow_right: `Install nodemon package and make sure you installed the latest version.`
 
-:arrow_right: `There are other images provided in the img folder that you can use for the markdown.`
+:arrow_right: `In the js file declare 4 variables using let keyword.`
+
+:arrow_right: `Give each variable a name using camelCase style.`
+
+:arrow_right: `Assign a string value to each variable and they are: 
+            - NMIT street address.
+            - City.
+            - Country.
+            - Postcode.
+.`
 
 :arrow_right: `Make sure you add, commit and push to task-one branch.`
-
-:arrow_right: `From the master branch create another new branch and name it dev.`
-
-:arrow_right: `On the dev branch create a folder name it src.`
-
-:arrow_right: `Create a JavaScript file insdie the src folder.`
 
 :arrow_right: `Make sure you add, commit and push to dev branch.`
 
