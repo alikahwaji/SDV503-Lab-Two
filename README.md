@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to SDV503 Lab One 👋</h1>
+<h1 align="center">Welcome to SDV503 Lab Two 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
   <a href="https://github.com/alikahwaji/Lab-template#readme" target="_blank">
@@ -60,13 +60,14 @@ Check the :white_check_mark: Todos & :x: Not Todos
 
 :arrow_right: `Give each variable a name using camelCase style.`
 
-:arrow_right: `Assign a string value to each variable and they are: .`
+:arrow_right: `Assign a string value to each variable and they are:`
 * NMIT street address.
 * City.
 * Country.
 * Postcode.
 
-:arrow_right: `Make sure you add, commit and push to task-one branch.`
+:arrow_right: `Using template strings print out the the following: `
+               `NMIT address: 322 Hardy Street, Nelson, New Zealand, 7010`
 
 :arrow_right: `Make sure you add, commit and push to dev branch.`
 
