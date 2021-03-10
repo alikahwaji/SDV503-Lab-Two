@@ -50,7 +50,7 @@ Check the :white_check_mark: Todos & :x: Not Todos
 
 ## :page_facing_up: Lab Two Practice 
 
-:arrow_right: `Create a folder name it src and in the folder create a file type .js`
+:arrow_right: `Create a folder name it src and in the folder create a file index.js`
 
 :arrow_right: `Create a new branch name it dev.`
 
@@ -78,10 +78,12 @@ Check the :white_check_mark: Todos & :x: Not Todos
 
 :arrow_right: `Merge dev branch to master.`
 
+:arrow_right: `Please check the resources section.`
+
 
 ## :books: Resources 
 
-|[GitHub Guides](https://guides.github.com/activities/hello-world/)|[Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)|[GitHub classroom](https://github.com/jfiksel/github-classroom-for-students)|[Markdown Table Generator](https://www.tablesgenerator.com/markdown_tables)|
+|[GitHub Guides](https://guides.github.com/activities/hello-world/)|[Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)|[GitHub classroom](https://github.com/jfiksel/github-classroom-for-students)|[Template Strings](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals)|
 |---|---|---|---|
 
 ## :loudspeaker: IMPORTANT NOTE
