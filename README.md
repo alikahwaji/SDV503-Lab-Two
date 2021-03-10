@@ -78,6 +78,8 @@ Check the :white_check_mark: Todos & :x: Not Todos
 
 :arrow_right: `Merge dev branch to master.`
 
+:arrow_right: `Check the questions in your journal file, and provide the answers in the same file.`
+
 :arrow_right: `Please check the resources section.`
 
 
