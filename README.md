@@ -60,12 +60,11 @@ Check the :white_check_mark: Todos & :x: Not Todos
 
 :arrow_right: `Give each variable a name using camelCase style.`
 
-:arrow_right: `Assign a string value to each variable and they are: 
-            - NMIT street address.
-            - City.
-            - Country.
-            - Postcode.
-.`
+:arrow_right: `Assign a string value to each variable and they are: .`
+* NMIT street address.
+* City.
+* Country.
+* Postcode.
 
 :arrow_right: `Make sure you add, commit and push to task-one branch.`
 
